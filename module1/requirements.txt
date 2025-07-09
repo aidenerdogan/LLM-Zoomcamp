@@ -1,0 +1,8 @@
+openai
+requests
+pandas
+numpy
+json
+minsearch
+elasticsearch
+tqdm
