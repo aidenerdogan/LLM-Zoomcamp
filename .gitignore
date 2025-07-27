@@ -1,1 +1,5 @@
-llmZooCampEnv/
+llmZoomCampEnv/
+__pycache__/
+*.pyc
+.DS_Store
+qdrant_storage/
